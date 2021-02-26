@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace L7_1_ReverseAString
+namespace L7_2_VowelCounter
 {
     class Program
     {
